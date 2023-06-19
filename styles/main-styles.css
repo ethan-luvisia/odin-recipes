@@ -11,6 +11,10 @@ img {
     width: 300px
 }
 
+hr {
+    color: black
+}
+
 .border-box {
     border: 2px solid #000; /* Adjust the color and thickness as desired */
     padding: 10px; background-color: darkkhaki;
